@@ -6,12 +6,16 @@
 
 Sou apaixonado por transformar dados em decisões estratégicas. Atualmente focado em Agentes de IA e Machine Learning.
 
-<p>
-  <a href="https://www.linkedin.com/in/vinicius-henrique-b61541274/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.simpleicons.org/linkedin"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:vhandrade.a@outlook.com"><img width="32px" alt="Email" title="Email" src="https://cdn.simpleicons.org/gmail"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.boot.dev/u/vini-haa"><img width="32px" alt="Boot.dev" title="Boot.dev" src="https://cdn.simpleicons.org/python/6C63FF"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinicius-henrique-b61541274/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vhandrade.a@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.boot.dev/u/vini-haa">
+    <img src="https://img.shields.io/badge/Boot.dev-6C63FF?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
 </p>
 
 </div>
@@ -20,17 +24,20 @@ Sou apaixonado por transformar dados em decisões estratégicas. Atualmente foca
 
 ### 🧰 Linguagens e Ferramentas
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="SQL Server" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-<img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<div align="center">
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 <br/><br/>
 
 ---
@@ -38,7 +45,8 @@ Sou apaixonado por transformar dados em decisões estratégicas. Atualmente foca
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vini-haa&show_icons=true&theme=gruvbox&hide_border=true&locale=pt-br" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vini-haa&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-haa&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
