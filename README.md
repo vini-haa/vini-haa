@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá! 👋 Sou Vinicius Henrique
 
-<!--
-**vini-haa/vini-haa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista de Dados e BI** | Python | SQL | Power BI | AWS
 
-Here are some ideas to get you started:
+### 🛠️ Stack
+- **Linguagens:** Python, SQL, DAX
+- **Ferramentas:** Power BI, Pandas, NumPy, Scikit-learn, XGBoost
+- **Cloud:** AWS (S3, Redshift)
+- **Outros:** Git, Selenium, APIs REST
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Projetos em destaque
+- 🤖 [Agente de IA Autônomo](https://github.com/vini-haa/ai-agent-project) - Python + Google Gemini API
+- 📈 [Modelo Preditivo de CTR](https://github.com/vini-haa/logistic-regression-ads-portfolio) - Machine Learning com XGBoost e SHAP
+
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/vinicius-henrique-b61541274/)
