@@ -2,9 +2,9 @@
 
 # Vinicius Henrique 👋
 
-**`Analista de Dados e BI (Python/SQL/Power BI/AWS)`**
+**`Engenharia de Software & Ciência de Dados`**
 
-Sou apaixonado por transformar dados em decisões estratégicas. Atualmente focado em Agentes de IA e Machine Learning.
+Atuo na interseção entre o desenvolvimento de software e a extração de inteligência de dados. Atualmente, foco em automação, análise avançada e Agentes de IA na **FADEX**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vinicius-henrique-b61541274/">
@@ -13,85 +13,68 @@ Sou apaixonado por transformar dados em decisões estratégicas. Atualmente foca
   <a href="mailto:vhandrade.a@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.boot.dev/u/vini-haa">
-    <img src="https://img.shields.io/badge/Boot.dev-6C63FF?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
 </p>
 
 </div>
 
 ---
 
-### 🧰 Linguagens e Ferramentas
+### 🚀 Sobre Mim
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-<br/><br/>
+- 🎓 **Acadêmico:** Graduando em **Engenharia de Software** no iCEV.
+- 🧠 **Foco:** Ciência de Dados e Agentes de IA com Python e SQL Server (T-SQL).
+- ⚙️ **Impacto:** Redução de esforço manual em **73%** via automação de pipelines.
+- 🛠️ **Estudos Atuais:** Gerenciamento de Memória (C) via Boot.dev e Estatística para Data Science via Alura.
 
 ---
 
-### 📊 Estatísticas
+### 🧰 Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vini-haa&theme=tokyonight&hide_border=true&locale=pt_BR"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-haa&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-### 🏆 Projetos
-
-<details>
-<summary><b>🤖 Agente de IA Autônomo</b></summary>
-<br/>
-
-> Agente CLI em Python que analisa e refatora código usando Google Gemini API com function calling. Implementa sandbox de segurança para execução controlada.
-
-**Tech:** `Python` `Google Gemini` `LLM` `Function Calling`
-
-🔗 [Ver repositório](https://github.com/vini-haa/ai-agent-project)
-
-</details>
-
-<details>
-<summary><b>📈 Modelo Preditivo de CTR</b></summary>
-<br/>
-
-> Pipeline completo de Machine Learning para previsão de Click-Through Rate em anúncios online, com análise exploratória e interpretabilidade via SHAP.
-
-**Tech:** `Scikit-learn` `XGBoost` `SHAP` `Pandas`
-
-🔗 [Ver repositório](https://github.com/vini-haa/logistic-regression-ads-portfolio)
-
-</details>
-
-<details>
-<summary><b>🔍 Análise de Roubos - Piauí</b></summary>
-<br/>
-
-> Análise exploratória de dados de segurança pública do estado do Piauí utilizando Python e bibliotecas de Data Science.
-
-**Tech:** `Pandas` `NumPy` `Matplotlib` `Jupyter`
-
-🔗 [Ver repositório](https://github.com/vini-haa/analise-roubos-piaui)
-
-</details>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Python, SQL (T-SQL), C, TypeScript |
+| **Ciência de Dados** | Pandas, NumPy, Scikit-learn, XGBoost, SHAP |
+| **Análise e BI** | Power BI (DAX Avançado), Matplotlib, Storytelling |
+| **Nuvem e Infra** | AWS (S3, Redshift), Docker, Git, Linux |
 
 ---
 
-### 🎓 Certificações
+### 🏆 Projetos em Destaque
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Agente de IA Autônomo</h4>
+      <p>Agente CLI para refatoração de código via Google Gemini API com function calling.</p>
+      <a href="https://github.com/vini-haa/ai-agent-project"><b>Ver Repositório →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 Previsão de CTR</h4>
+      <p>Pipeline de ML com XGBoost e interpretabilidade via SHAP para anúncios online.</p>
+      <a href="https://github.com/vini-haa/logistic-regression-ads-portfolio"><b>Ver Repositório →</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Jornada e Impacto
+
+- 🔭 **Atualmente:** Assistente de TI / Analista de Dados na **FADEX**.
+- ⚡ **Resultado:** Otimização de consultas SQL reduzindo o tempo de relatórios em **40%**.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,aws,docker,linux,git,pycharm,cpp" />
+</p>
+
+---
+
+### 📈 Atividade de Código
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vini-haa&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</p>
+
+<div align="center">
+  <sub>"Transformando bytes em decisões e código em eficiência."</sub>
+</div>
