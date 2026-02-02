@@ -26,6 +26,17 @@ Atuo na interseção entre o desenvolvimento de software e a extração de intel
 - ⚙️ **Impacto:** Redução de esforço manual em **73%** via automação de pipelines.
 - 🛠️ **Estudos Atuais:** Gerenciamento de Memória (C) via Boot.dev e Estatística para Data Science via Alura.
 
+
+---
+
+### 📊 Jornada e Impacto
+
+- 🔭 **Atualmente:** Assistente de TI / Analista de Dados na **FADEX**.
+- 👇 O que estou gostando de brincar recentemente.👇
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,aws,docker,linux,git,pycharm,cpp" />
+</p>
+
 ---
 
 ### 🧰 Tech Stack
@@ -56,16 +67,7 @@ Atuo na interseção entre o desenvolvimento de software e a extração de intel
   </tr>
 </table>
 
----
 
-### 📊 Jornada e Impacto
-
-- 🔭 **Atualmente:** Assistente de TI / Analista de Dados na **FADEX**.
-- ⚡ **Resultado:** Otimização de consultas SQL reduzindo o tempo de relatórios em **40%**.
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,aws,docker,linux,git,pycharm,cpp" />
-</p>
 
 ---
 
