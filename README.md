@@ -4,14 +4,15 @@
 
 **`Engenharia de Software & Ciência de Dados`**
 
-Atuo na interseção entre o desenvolvimento de software e a extração de inteligência de dados. Atualmente, foco em automação, análise avançada e Agentes de IA na **FADEX**.
+Hoje eu trabalho no desenvolvimento de software e extração de dados com inteligência.  
+Atualmente foco em desenvolver aplicações que realizem análises avançadas e Agentes de IA na **FADEX**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vinicius-henrique-b61541274/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vhandrade.a@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
 </p>
 
@@ -22,14 +23,13 @@ Atuo na interseção entre o desenvolvimento de software e a extração de intel
 ### 🚀 Sobre Mim
 
 - 🎓 **Acadêmico:** Graduando em **Engenharia de Software** no iCEV.
-- 🧠 **Foco:** Ciência de Dados e Agentes de IA com Python e SQL Server (T-SQL).
-- ⚙️ **Impacto:** Redução de esforço manual em **73%** via automação de pipelines.
+- 🧠 **Foco:** Ciência de Dados e Agentes de IA com Python e SQL (T-SQL).
 - 🛠️ **Estudos Atuais:** Gerenciamento de Memória (C) via Boot.dev e Estatística para Data Science via Alura.
 
 
 ---
 
-### 📊 Jornada e Impacto
+### 📊 Jornada 
 
 - 🔭 **Atualmente:** Assistente de TI / Analista de Dados na **FADEX**.
 - 👇 O que estou gostando de brincar recentemente.👇
