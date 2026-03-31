@@ -25,7 +25,7 @@ Essa bagagem me ajuda a pensar diferente: entendo o que o usuário precisa ver e
 - Desenvolvedor Full Stack Pleno na **FADEX**
 - Graduando em **Engenharia de Software** no iCEV (conclusão dez/2026)
 - Certificado **AWS** em Data Engineering
-- Estudando: Boot.dev (Memory Management em C, Data Structures em Python)
+- Estudando: Boot.dev (Learn Go)
 
 ---
 
@@ -99,6 +99,3 @@ Alguns números desse caminho:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vini-haa&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
 
-<div align="center">
-  <sub>Construo sistemas do banco até a interface. Às vezes eles até funcionam de primeira.</sub>
-</div>
