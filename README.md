@@ -1,11 +1,11 @@
 <div align="center">
 
-# Vinicius Henrique 👋
+# Vinicius Andrade
 
-**`Engenharia de Software & Ciência de Dados`**
+**`Desenvolvedor Full Stack · Analista de Dados · Engenheiro de Software`**
 
-Hoje eu trabalho no desenvolvimento de software e extração de dados com inteligência.  
-Atualmente foco em desenvolver aplicações que realizem análises avançadas e Agentes de IA na **FADEX**.
+Construo aplicações do banco de dados até a interface. Antes de virar dev, passei quase dois anos trabalhando com dados e BI.
+Essa bagagem me ajuda a pensar diferente: entendo o que o usuário precisa ver e como o dado chega até lá.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vinicius-henrique-b61541274/">
@@ -20,63 +20,85 @@ Atualmente foco em desenvolver aplicações que realizem análises avançadas e 
 
 ---
 
-### 🚀 Sobre Mim
+### Sobre Mim
 
-- 🎓 **Acadêmico:** Graduando em **Engenharia de Software** no iCEV.
-- 🧠 **Foco:** Ciência de Dados e Agentes de IA com Python e SQL (T-SQL).
-- 🛠️ **Estudos Atuais:** Gerenciamento de Memória (C) via Boot.dev e Estatística para Data Science via Alura.
-
+- Desenvolvedor Full Stack Pleno na **FADEX**
+- Graduando em **Engenharia de Software** no iCEV (conclusão dez/2026)
+- Certificado **AWS** em Data Engineering
+- Estudando: Boot.dev (Memory Management em C, Data Structures em Python)
 
 ---
 
-### 📊 Jornada 
+### Jornada
 
-- 🔭 **Atualmente:** Assistente de TI / Analista de Dados na **FADEX**.
-- 👇 O que estou gostando de brincar recentemente.👇
+```
+Mar 2026 → hoje    Dev Full Stack Pleno     FADEX
+Out 2025 → Mar 26  Assistente de TI         FADEX (dashboards, BI, otimização SQL)
+Mar 2024 → Out 25  Estagiário de BI         FADEX (pipelines, Power BI, automações)
+Jul 2022 → Fev 24  Período sabático         (graduação + Python + SQL + café)
+```
+
+Alguns números desse caminho:
+- Reduzi em **40%** o tempo de carregamento de relatórios com cache em Redis
+- Construí dashboards usados por **+50 pessoas** no dia a dia
+- Cortei **73%** do esforço manual de ingestão de dados
+- Criei monitores que detectam anomalias **50% mais rápido**
+
+---
+
+### Tech Stack
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Frontend** | Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Recharts |
+| **Backend** | Node.js, SQL Server (T-SQL), PostgreSQL, Prisma ORM, Redis, APIs REST |
+| **Análise & Data** | Python, Pandas, NumPy, Scikit-learn, XGBoost, SHAP, Jupyter |
+| **BI** | Power BI, DAX, storytelling com dados, KPIs |
+| **Infra** | Docker, AWS (S3, Redshift), Git, Linux |
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,aws,docker,linux,git,pycharm,cpp" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,python,postgres,docker,aws,git,linux" />
 </p>
 
 ---
 
-### 🧰 Tech Stack
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | Python, SQL (T-SQL), C, TypeScript |
-| **Ciência de Dados** | Pandas, NumPy, Scikit-learn, XGBoost, SHAP |
-| **Análise e BI** | Power BI (DAX Avançado), Matplotlib, Storytelling |
-| **Nuvem e Infra** | AWS (S3, Redshift), Docker, Git, Linux |
-
----
-
-### 🏆 Projetos em Destaque
+### Projetos em Destaque
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 Agente de IA Autônomo</h4>
-      <p>Agente CLI para refatoração de código via Google Gemini API com function calling.</p>
+      <h4>Agente de IA Autônomo</h4>
+      <p>CLI em Python que recebe um prompt e sai mexendo no código sozinho via Google Gemini API. Sim, ele funciona.</p>
       <a href="https://github.com/vini-haa/ai-agent-project"><b>Ver Repositório →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h4>📈 Previsão de CTR</h4>
-      <p>Pipeline de ML com XGBoost e interpretabilidade via SHAP para anúncios online.</p>
+      <h4>Predição de Cliques em Anúncios</h4>
+      <p>Pipeline de ML com Scikit-learn e XGBoost. Spoiler: a Regressão Logística ganhou. AUC de 0.998.</p>
       <a href="https://github.com/vini-haa/logistic-regression-ads-portfolio"><b>Ver Repositório →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Onde roubam celulares no Piauí?</h4>
+      <p>Análise exploratória de dados criminais. Os dados contam histórias que ninguém está prestando atenção.</p>
+      <a href="https://github.com/vini-haa/analise-roubos-piaui"><b>Ver Repositório →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>IA no Piauí</h4>
+      <p>Dashboard que coleta notícias sobre IA em tempo real e analisa o sentimento. A mídia local é mais otimista do que eu esperava.</p>
+      <a href="https://github.com/vini-haa/Monitoramento---IA-no-Piaui"><b>Ver Repositório →</b></a>
     </td>
   </tr>
 </table>
 
-
-
 ---
 
-### 📈 Atividade de Código
+### Atividade
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vini-haa&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
 
 <div align="center">
-  <sub>"Transformando bytes em decisões e código em eficiência."</sub>
+  <sub>Construo sistemas do banco até a interface. Às vezes eles até funcionam de primeira.</sub>
 </div>
