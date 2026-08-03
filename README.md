@@ -21,12 +21,11 @@ Essa bagagem me ajuda a pensar diferente: entendo o que o usuário precisa ver e
 ---
 
 ### Sobre Mim
-- Desenvolvedor Full Stack Pleno na **FADEX**
 - Graduando em **Engenharia de Software** no iCEV (conclusão dez/2026)
 - Certificado **AWS** em Data Engineering
 
 <h3>Estudando agora</h3>
-<p>Aprofundando em Go pelo <a href="https://boot.dev">Boot.dev</a> — backend, algoritmos e estruturas de dados.</p>
+<p>Aprofundando em SQL pelo <a href="https://boot.dev">Boot.dev</a> — backend, algoritmos e estruturas de dados.</p>
 <p align="center">
   <a href="https://boot.dev">
     <img src="https://api.boot.dev/v1/users/public/14501dcf-ae96-4111-8269-c45075aa4a8e/thumbnail" alt="Boot.dev — progresso atual" />
